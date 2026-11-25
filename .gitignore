@@ -1,0 +1,20 @@
+# Conjunto de datos local
+/Datos/
+
+# Python y Jupyter
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Archivos generados por LaTeX
+/Memoria/**/*.aux
+/Memoria/**/*.log
+/Memoria/**/*.out
+/Memoria/**/*.toc
+/Memoria/**/*.fls
+/Memoria/**/*.fdb_latexmk
+/Memoria/**/*.synctex.gz
+/Memoria/memoria.pdf

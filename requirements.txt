@@ -1,0 +1,13 @@
+# Lista inicial. Revisar conforme se incorporen los experimentos.
+
+# Lectura de PNG y procesamiento de imágenes en escala de grises
+Pillow
+numpy
+scikit-image
+
+# Clasificación a partir de características extraídas de las imágenes
+scikit-learn
+
+# Visualización de resultados y guardado del modelo
+matplotlib
+joblib
